@@ -1,0 +1,6 @@
+{
+  "name": "Meal Plan 30 Hari",
+  "description": "Rencana menu harian untuk 30 hari yang berfokus pada sarapan, makan siang, dan makan malam dengan masakan khas Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
